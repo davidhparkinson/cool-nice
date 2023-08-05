@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "cool nice",
+  "avatar": "WnsGadcasetkHs0aa",
+  "preferredColor": "violet",
+  "language": "python.3",
+  "game": "chess",
+  "run": "python3 -u ./main.py"
+}
